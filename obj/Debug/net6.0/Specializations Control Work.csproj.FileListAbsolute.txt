@@ -1,0 +1,15 @@
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/bin/Debug/net6.0/Specializations Control Work
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/bin/Debug/net6.0/Specializations Control Work.deps.json
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/bin/Debug/net6.0/Specializations Control Work.runtimeconfig.json
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/bin/Debug/net6.0/Specializations Control Work.dll
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/bin/Debug/net6.0/Specializations Control Work.pdb
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.csproj.AssemblyReference.cache
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.AssemblyInfoInputs.cache
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.AssemblyInfo.cs
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.csproj.CoreCompileInputs.cache
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.dll
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/refint/Specializations Control Work.dll
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.pdb
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/Specializations Control Work.genruntimeconfig.cache
+/Users/robert/Desktop/Developer 3951/C#/Specializations Control Work/obj/Debug/net6.0/ref/Specializations Control Work.dll
